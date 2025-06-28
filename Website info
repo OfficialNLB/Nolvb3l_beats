@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>NoLvb3l Beats | Buy & Lease Beats Online</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>NoLvb3l Beats</h1>
+    <nav>
+      <a href="#beats">Beats</a>
+      <a href="#licensing">Licensing</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>🔥 Buy Industry-Quality Beats</h2>
+    <p>Instant Delivery | Lease & Exclusive Options | Secure Checkout</p>
+    <a href="#beats" class="cta">Browse Beats</a>
+  </section>
+
+  <section id="beats">
+    <h2>🎧 Beat Store</h2>
+    <!-- Replace yourstoreID with your actual Airbit or BeatStars store embed ID -->
+    <iframe src="https://airbit.com/embed/player/?store=yourstoreID" frameborder="0" width="100%" height="450"></iframe>
+  </section>
+
+  <section id="licensing">
+    <h2>📜 Licensing Info</h2>
+    <div class="licenses">
+      <div>
+        <h3>Basic Lease</h3>
+        <p>MP3 Only – Non-exclusive – 5,000 streams</p>
+      </div>
+      <div>
+        <h3>Premium Lease</h3>
+        <p>MP3 + WAV – Unlimited streams – Music video allowed</p>
+      </div>
+      <div>
+        <h3>Exclusive</h3>
+        <p>Full rights – Beat removed from store – WAV + Stems</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="about">
+    <h2>👤 About Me</h2>
+    <p>I’m NoLvb3l, a producer blending hard-hitting drums with melodic textures. Let’s take your sound to the next level.</p>
+  </section>
+
+  <section id="contact">
+    <h2>📬 Contact</h2>
+    <form action="mailto:youremail@example.com" method="POST" enctype="text/plain">
+      <input type="text" name="Name" placeholder="Your Name" required />
+      <input type="email" name="Email" placeholder="Your Email" required />
+      <textarea name="Message" placeholder="Your message here..." required></textarea>
+      <button type="submit">Send</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© 2025 NoLvb3l Beats | All rights reserved.</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>NoLvb3l Beats | Buy & Lease Beats Online</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>NoLvb3l Beats</h1>
+    <nav>
+      <a href="#beats">Beats</a>
+      <a href="#licensing">Licensing</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>🔥 Buy Industry-Quality Beats</h2>
+    <p>Instant Delivery | Lease & Exclusive Options | Secure Checkout</p>
+    <a href="#beats" class="cta">Browse Beats</a>
+  </section>
+
+  <section id="beats">
+    <h2>🎧 Beat Store</h2>
+    <!-- Replace yourstoreID with your actual Airbit or BeatStars store embed ID -->
+    <iframe src="https://airbit.com/embed/player/?store=yourstoreID" frameborder="0" width="100%" height="450"></iframe>
+  </section>
+
+  <section id="licensing">
+    <h2>📜 Licensing Info</h2>
+    <div class="licenses">
+      <div>
+        <h3>Basic Lease</h3>
+        <p>MP3 Only – Non-exclusive – 5,000 streams</p>
+      </div>
+      <div>
+        <h3>Premium Lease</h3>
+        <p>MP3 + WAV – Unlimited streams – Music video allowed</p>
+      </div>
+      <div>
+        <h3>Exclusive</h3>
+        <p>Full rights – Beat removed from store – WAV + Stems</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="about">
+    <h2>👤 About Me</h2>
+    <p>I’m NoLvb3l, a producer blending hard-hitting drums with melodic textures. Let’s take your sound to the next level.</p>
+  </section>
+
+  <section id="contact">
+    <h2>📬 Contact</h2>
+    <form action="mailto:youremail@example.com" method="POST" enctype="text/plain">
+      <input type="text" name="Name" placeholder="Your Name" required />
+      <input type="email" name="Email" placeholder="Your Email" required />
+      <textarea name="Message" placeholder="Your message here..." required></textarea>
+      <button type="submit">Send</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© 2025 NoLvb3l Beats | All rights reserved.</p>
+  </footer>
+</body>
+</html>
